@@ -8,7 +8,9 @@ tekst. Nakon toga se po kucanju teksta kodira reč po reč i ispisuje na standar
 Primer kodiranja je:
 
 Otvoreni tekst: ATTACKATDAWN
+
 Ključ: LEMONLEMONLE
+
 Šifra: LXFOPVEFRNHR.
 
 Naime, otvoreni tekst se sabira po modulu 26 sa ključem. Ukoliko je ključ duži od teksta,
